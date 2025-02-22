@@ -1,1 +1,1 @@
-# Resturent_MERN_App
+# Restaurant_MERN_App
